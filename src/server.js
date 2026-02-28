@@ -1,0 +1,1 @@
+export const api_server_key = "http://localhost:3000" 
